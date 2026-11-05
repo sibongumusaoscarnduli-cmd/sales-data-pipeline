@@ -1,0 +1,8 @@
+Verified 2026-11-04
+Python 3.9.6
+11 unittest tests passed, including local HTTP end-to-end reruns.
+CLI demo first run: fetched 11, inserted 4, duplicates 1, rejected 6.
+CLI demo second run: fetched 11, inserted 0, duplicates 5, rejected 6.
+CLI report: total revenue 2910 USD cents.
+CLI unavailable API: exit code 1 as expected.
+Examples were captured against a temporary database; shipped project starts fresh.

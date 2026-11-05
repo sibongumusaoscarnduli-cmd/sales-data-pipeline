@@ -1,0 +1,46 @@
+{
+  "summary": {
+    "run_id": 2,
+    "status": "success",
+    "fetched": 11,
+    "inserted": 0,
+    "duplicates": 5,
+    "rejected": 6
+  },
+  "reports": {
+    "daily_sales": [
+      {
+        "sold_on": "2026-01-05",
+        "currency": "USD",
+        "units": 5,
+        "revenue_cents": 1260
+      },
+      {
+        "sold_on": "2026-01-06",
+        "currency": "USD",
+        "units": 2,
+        "revenue_cents": 1650
+      }
+    ],
+    "top_products": [
+      {
+        "product": "Notebook",
+        "currency": "USD",
+        "units": 3,
+        "revenue_cents": 1350
+      },
+      {
+        "product": "Mug",
+        "currency": "USD",
+        "units": 1,
+        "revenue_cents": 1200
+      },
+      {
+        "product": "Pen",
+        "currency": "USD",
+        "units": 3,
+        "revenue_cents": 360
+      }
+    ]
+  }
+}

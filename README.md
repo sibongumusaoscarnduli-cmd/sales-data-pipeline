@@ -34,7 +34,6 @@ Use `--db var/experiment.db` after `demo`, `run`, or `report` for a separate dat
 - `data/`: synthetic input, including duplicates and invalid records.
 - `tests/`: validation, retries, rollback, and HTTP-to-SQL tests.
 - `examples/`: captured output and useful SQL queries.
-- [Study guide](STUDY_GUIDE.md): architecture, code walkthrough, and rebuild exercises.
 
 ## Data rules
 
